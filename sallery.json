@@ -1,0 +1,50 @@
+{
+  "sallerys": [
+    {
+      "name2": "Saloni",
+      "date2": "2-2-2023",
+      "bankname": "panjab",
+      "ifsc": "PNB5646JHU145",
+      "account": "98784654136457",
+      "holder": "saloni",
+      "sallery": "10000",
+      "leave": "5",
+      "tsallery": "8335",
+      "id": 2
+    },
+    {
+      "name2": "pooja",
+      "date2": "2-5-2023",
+      "bankname": "SBI",
+      "ifsc": "SBI54654JU4564",
+      "account": "89765432132",
+      "holder": "pooja",
+      "sallery": "10000",
+      "leave": "2",
+      "tsallery": "9334",
+      "id": 3
+    },
+    {
+      "name2": "Aman",
+      "date2": "2-2-2023",
+      "bankname": "Sbi",
+      "ifsc": "SBI55643UU231",
+      "account": "87965412354",
+      "holder": "aman saini",
+      "sallery": "10000",
+      "leave": "4",
+      "tsallery": "8668",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

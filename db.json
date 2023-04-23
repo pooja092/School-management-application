@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "img": "C:\\fakepath\\WhatsApp Image 2023-03-31 at 7.28.20 PM.jpeg",
+      "sr": "1",
+      "firstname": "Shivam",
+      "lastname": "Mishra",
+      "doa": "21/2/2022",
+      "cla": "5",
+      "dob": "12/12/2020",
+      "age": "12",
+      "gender": "Male",
+      "board": "cbsc",
+      "aadhar": "123654788",
+      "contact": "785446633",
+      "category": "Genral",
+      "father": "jp",
+      "mother": "geeta",
+      "foccupation": "job",
+      "moccupation": "job",
+      "presentaddress": "mansrowar",
+      "permanentaddress": "pansrowar",
+      "city": "delhi",
+      "religion": "hindu",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "sr": "2",
+      "firstname": "Anvi",
+      "lastname": "Thakur",
+      "doa": "15/2/2023",
+      "cla": "6",
+      "dob": "12/2/1998",
+      "age": "25",
+      "gender": "Female",
+      "board": "cbsc"
+    },
+    {
+      "id": 11,
+      "sr": "5",
+      "firstname": "Saloni",
+      "lastname": "Thakur",
+      "doa": "2/2/2022",
+      "cla": "5",
+      "dob": "5/2/2022",
+      "age": "25",
+      "gender": "Female",
+      "board": "u.p"
+    },
+    {
+      "id": 12,
+      "sr": "1",
+      "firstname": "pooja",
+      "lastname": "Mishra",
+      "doa": "15/4/2023",
+      "cla": "2",
+      "dob": "10/2/2022",
+      "age": "5",
+      "gender": "female",
+      "board": "cbsc"
+    },
+    {
+      "id": 13,
+      "sr": "2",
+      "firstname": "pooja",
+      "lastname": "Mishra",
+      "doa": "2/2/2022",
+      "cla": "3",
+      "dob": "12/2/2022",
+      "age": "10",
+      "gender": "female",
+      "board": "cbsc"
+    },
+    {
+      "sr": "1",
+      "firstname": "Prachi",
+      "lastname": "Sharma",
+      "doa": "2/2/2023",
+      "cla": "9",
+      "dob": "2/2/2005",
+      "age": "18",
+      "gender": "Female",
+      "board": "cbsc",
+      "aadhar": "879654123",
+      "contact": "8796541236",
+      "category": "genral",
+      "father": "vb sharma",
+      "mother": "kiran",
+      "foccupation": "private-job",
+      "moccupation": "house-wife",
+      "presentaddress": "mansrowar",
+      "permanentaddress": "mansrowar",
+      "city": "mbd",
+      "religion": "hindu",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

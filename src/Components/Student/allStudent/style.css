@@ -1,0 +1,38 @@
+.view-btn{
+    background-color: #063a41 !important;
+    width: 100px;
+    color: white !important;
+
+}
+
+.modal-camp{
+    size: initial;
+   
+}
+
+.post-table{
+    border: solid 2px  rgb(179, 178, 178);
+    width: 90%;
+    text-align: center !important;
+    margin: auto;
+  
+}
+.view-link{
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+.modal-img{
+    width: 200% !important;
+    height: 200px;
+    background-color: gray;
+}
+.modal-stu{
+font-size: 1rem;
+font-weight: bold;
+}
+
+/* p{
+
+} */
